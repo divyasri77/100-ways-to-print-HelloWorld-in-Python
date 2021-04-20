@@ -8,14 +8,14 @@ If you don't have git on your machine, [download now](https://docs.github.com/en
 
 ## Fork this Repository
 
-Fork [this](https://github.com/divyasri77/100-ways-to-print-HelloWorld-in-any-Programming-Language) repository by clicking the fork button at the top of this page. This will create a copy of this repository in your account.
+Fork [this](https://github.com/divyasri77/100-ways-to-print-HelloWorld-in-Python) repository by clicking the fork button at the top of this page. This will create a copy of this repository in your account.
 
 ## Clone this Repository
 
 Clone your forked copy of the project
 
 ```
-git clone https://github.com/<Yourname>/100-ways-to-print-HelloWorld-in-any-Programming-Language.git
+git clone https://github.com/<Yourname>/100-ways-to-print-HelloWorld-in-Python.git
 ```
 
 ## Navigate to the Project
@@ -23,7 +23,7 @@ git clone https://github.com/<Yourname>/100-ways-to-print-HelloWorld-in-any-Prog
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd 100-ways-to-print-HelloWorld-in-any-Programming-Language.git
+cd 100-ways-to-print-HelloWorld-in-Python.git
 ```
 
 ## Create a Branch
