@@ -1,1 +1,1 @@
-# 100-ways-of-printing-HelloWorld-in-any-Programming-Language
+# 100-ways-to-print-HelloWorld-in-any-Programming-Language
