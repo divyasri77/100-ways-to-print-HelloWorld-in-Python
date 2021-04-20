@@ -1,4 +1,4 @@
-#           100 Ways to print HelloWorld
+# 💯100 Ways to print HelloWorld 🌎
 
 This repository is made for the contributors who are wishing to make their first contribution or refreshing their concept in the programming language.
 
