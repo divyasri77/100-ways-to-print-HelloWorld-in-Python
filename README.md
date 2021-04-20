@@ -6,6 +6,8 @@ This repository is made for the contributors who are wishing to make their first
 
 If you don't have git on your machine, [download now](https://docs.github.com/en/github/getting-started-with-github/set-up-git) 
 
+***Before you start READ [Instructions](https://github.com/divyasri77/100-ways-to-print-HelloWorld-in-Python/blob/main/instructions.md)***
+
 ## Fork this Repository
 
 Fork [this](https://github.com/divyasri77/100-ways-to-print-HelloWorld-in-Python) repository by clicking the fork button at the top of this page. This will create a copy of this repository in your account.
