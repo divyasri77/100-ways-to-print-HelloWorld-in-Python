@@ -1,4 +1,4 @@
-                                                     ## 100 Ways to print HelloWorld
+# 100 Ways to print HelloWorld
 
 This repository is made for the contributors who are wishing to make their first contribution or refreshing their concept in the programming language.
 
@@ -6,6 +6,7 @@ This repository is made for the contributors who are wishing to make their first
 
 If you don't have git on your machine, [download now](https://docs.github.com/en/github/getting-started-with-github/set-up-git) 
 
-### Fork this Repository
+## Fork this Repository
+
 
 
